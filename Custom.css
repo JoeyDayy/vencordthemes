@@ -1,0 +1,13 @@
+ /*CHAT BAR ALIGNING THING*/
+ @import url("https://nspc911.github.io/themes/vencord/RefreshedSeamlessChatBar.theme.css");
+ @import url(https://croissantdunord.github.io/discord-adblock/adblock.css);
+ @import url(https://croissantdunord.github.io/discord-adblock/adblock-extras.css);
+ @import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/base/Apple.css);
+
+:root {
+    /*Seamless Chatbar Stuff*/
+    /* change padding of the chat bar */
+     --rscb-chat-box-padding: 8px; /* default is 8px for alignment */
+    /*End*/
+
+}
